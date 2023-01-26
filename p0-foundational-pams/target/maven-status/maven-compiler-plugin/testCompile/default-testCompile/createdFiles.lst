@@ -1,0 +1,4 @@
+com\revature\test\suite\in\main\JunitTestSuit.class
+com\revature\config\DatabaseConnectionTest.class
+com\revature\dao\PatientDaoImplTest.class
+com\revature\util\DateUtilTest.class
